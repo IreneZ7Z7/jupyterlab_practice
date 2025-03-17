@@ -1,0 +1,4 @@
+name: assignment-7
+channels:
+  - conda-forge
+  - defaults
